@@ -36,6 +36,7 @@ MANIFEST
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
+output.txt
 
 # Unit test / coverage reports
 htmlcov/
@@ -136,6 +137,8 @@ dmypy.json
 datasets/
 runs/
 wandb/
+data/
+ultralytics/assets/
 
 .DS_Store
 
