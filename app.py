@@ -64,7 +64,7 @@ if __name__ == '__main__':
                     stream=False,
                     conf=0.25,
                     iou=0.75,
-                    device=1,
+                    device=0,
                     half=False,
                     show=False,
                     save=True,
